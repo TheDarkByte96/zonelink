@@ -1,2 +1,2 @@
-# zonelink
-zonelink - social network
+zonelink - Open-Source Social Network
+written in Java :)
